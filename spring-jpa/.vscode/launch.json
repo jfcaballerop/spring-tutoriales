@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<jpa-example>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.mrknight.jpaexample.Application",
+            "projectName": "jpa-example",
+            "args": ""
+        }
+    ]
+}
