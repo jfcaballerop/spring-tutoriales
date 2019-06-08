@@ -1,4 +1,6 @@
     management:
+      server:
+        port: 7000
       endpoints:
         web:
           exposure:
